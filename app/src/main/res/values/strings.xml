@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">First Application</string>
     <string name="action_settings">Settings</string>
+    <string name="edit_message">Name your hero!</string>
+    <string name="button_send">Name Hero</string>
+    <string name="default_text">This is my hero and its name is</string>
+    <string name="hero_chooser">Choose your glorious hero!</string>
+    <string-array name="heroes">
+        <item>Mercy</item>
+        <item>Soldier</item>
+        <item>Reaper</item>
+    </string-array>
 </resources>
